@@ -36,6 +36,7 @@ class Solution {
            row++;
        } 
        return Arrays.asList(row, col);
+        
                 
             }
         }
